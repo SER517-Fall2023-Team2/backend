@@ -1,2 +1,4 @@
 # backend
-Backend component. Java Spring. 
+Backend component. Java Spring.
+
+Git rm -f
